@@ -1,0 +1,5 @@
+{
+  "name": "AI Fashion Lookbook",
+  "description": "Upload a clothing item and let AI generate professional lookbook variations featuring different models and settings for your brand.",
+  "requestFramePermissions": []
+}
